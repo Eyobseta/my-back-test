@@ -52,7 +52,7 @@ Follow these steps to set up and run the project locally.
     ```bash
       git clone https://github.com/Eyobseta/my-back-test.git
       cd my-back-test
-    ```.
+    ```
 2. Open the Project
 
      - Open pages/index.html in your browser to see the app.
