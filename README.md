@@ -65,7 +65,7 @@ Follow these steps to set up and run the project locally.
     - Replace placeholders with your API keys or endpoints:
       ```javascript
           const brokerAPI = "YOUR_BROKER_API_KEY_HERE";
-      ```.
+      ```
 4. Screenshots / Demo GIFs
 
     - Place images or GIFs of your app in the docs/ folder.
